@@ -1,8 +1,13 @@
 {
   "protocol_version": "v1.0",
+  "engine_version": "1.0",
   "last_completed_mp": "MP-1.2",
-  "current_mp": "IDLE",
-  "engine_status": "ONLINE",
-  "timestamp": "2025-11-30T08:30:00Z",
-  "claude_session_id": "CLAUDE-EXEC-ENGINE-20251130-082500"
+  "current_mp": "MP-1.3",
+  "engine_status": "RUNNING",
+  "timestamp": "2025-11-30T08:35:00Z",
+  "claude_session_id": "CLAUDE-EXEC-ENGINE-20251130-082500",
+  "last_completed": "MP-1.2",
+  "current": "MP-1.3",
+  "status": "RUNNING",
+  "last_updated": "2025-11-30T08:35:00Z"
 }
