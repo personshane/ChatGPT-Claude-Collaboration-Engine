@@ -1,7 +1,7 @@
 {
   "protocol_version": "v1.0",
-  "last_completed_mp": "MP-0SYNC",
-  "current_mp": "MP-1.0",
+  "last_completed_mp": "MP-1.2",
+  "current_mp": "IDLE",
   "engine_status": "ONLINE",
   "timestamp": "2025-11-30T08:30:00Z",
   "claude_session_id": "CLAUDE-EXEC-ENGINE-20251130-082500"

@@ -1,0 +1,5 @@
+{
+  "broken": true,
+  "missing_comma": true,
+  "this_will_fail": true
+}
